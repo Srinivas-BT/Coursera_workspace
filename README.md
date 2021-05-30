@@ -1,2 +1,2 @@
 # Coursera_workspace
-Workspace for training 
+Workspace for training in the coursera - testing and projects
